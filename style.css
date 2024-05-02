@@ -1,0 +1,34 @@
+
+#header{
+    width: 100%;
+    height: 100px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #12263e;
+    color: white;
+}
+.navList{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    
+}
+.text1{
+    text-decoration: none;
+    color: white;
+     padding: 5%;
+   
+}
+.fixedBtn{
+    padding: 10px 30px;
+    background-color: lime;
+    color: #fff;
+    position: fixed;
+    top: 95%;
+}
+
+
+
